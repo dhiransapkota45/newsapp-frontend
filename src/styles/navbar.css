@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+    color: blue;
+  padding: 26px 18px;
+  box-shadow: 0px 0px 5px 0px gray;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  justify-content: space-between;
+}
+
+.username {
+
+}
